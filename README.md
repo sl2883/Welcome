@@ -1,8 +1,8 @@
-### This is the official github page for everything I've been learning at Cornell Tech.
+##### This is the official github page for everything I've been learning at Cornell Tech.
 
 ### Courses taken 
-### Business
-#### Summers
+#### Business
+##### Summers
 *  Accounting
 *  Finance
 *  Micro economics
@@ -14,7 +14,7 @@
 *  Leadership
 *  Data Analytics
 
-#### Fall
+##### Fall
 *  Digital Marketing
 *  Designing Data Products
 *  Design Thinking
@@ -23,7 +23,8 @@
 *  Product Studio
 *  Operations Management
 
-#### Spring*  Business Models
+##### Spring
+*  Business Models
 * Core Ldrship Skills for VUCA
 * Negotiations
 * Leading Digital Trans & Innov.
@@ -33,13 +34,13 @@
 * Disruptive Technologies
 * Entrep in Creative Industries
 
-### Tech
-#### Fall
+#### Tech
+##### Fall
 * Virtual and Augmented Reality
 * Security & Privacy in the Wild
 * Interactive Device Design
 
-#### Spring
+##### Spring
 * Blockchains & Cryptocurrencies
 * Data Science in the Wild
 * Deep Learning
