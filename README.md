@@ -1,16 +1,15 @@
-##### This is the official github page for everything I've been learning at Cornell Tech.
+##### This is the official github page for everything(Business and tech) I've been learning at Cornell Tech.
 
-### Courses taken 
 #### Business
 ##### Summers
 *  Accounting
 *  Finance
 *  Micro economics
 *  Strategy
-*  Critical Thinking
+*  Critical Thinking - [Final](https://drive.google.com/drive/u/0/folders/1wVsuwMafcOwXkLrm5sDmjoHwZBMpHyxe)
 *  Marketing Strategy
-*  Managing Cases
-*  Managing Presentation - [P1] (https://drive.google.com/file/d/1v6sNIwSB63CkZYNGJzJ23s5xrJkZmfnD/view?usp=sharing)
+*  Managing Cases - [P1](https://drive.google.com/file/d/17pbdzWkn90cV79qUrKkog66DtQTt5bn5/view?usp=sharing), [P2](https://drive.google.com/drive/u/0/folders/1vXSrbccwRVY_hUIv42vhm2ZEaI2OMVta), [P3](https://drive.google.com/file/d/1936MZuo6n_njUi6KLU1iTTxS_7VJ_Nq2/view?usp=sharing)
+*  Managing Presentation - [P1](https://drive.google.com/file/d/1v6sNIwSB63CkZYNGJzJ23s5xrJkZmfnD/view?usp=sharing)
 *  Leadership
 *  Data Analytics
 
