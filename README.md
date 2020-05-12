@@ -27,9 +27,9 @@
 * Core Ldrship Skills for VUCA - [Final](https://docs.google.com/document/d/1WoMirkUDdDka0TfZfSqo9Afowbv8ADxTUlJbDcKZAAE/edit?usp=sharing)
 * Negotiations
 * Leading Digital Trans & Innov.
-* Managerial Decision Making - In progress 
-* Startup Studio - In progress
-* Product Management - In progress
+* Managerial Decision Making
+* Startup Studio - [OnePlace](https://www.oneplace.family/)
+* Product Management
 * Disruptive Technologies
 * Entrep in Creative Industries - [Final](https://drive.google.com/file/d/1hHbnSTxZI0t886HHeRTbN8iKja3irjgO/view?usp=sharing)
 
